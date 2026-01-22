@@ -31,6 +31,12 @@ db.employees.insertMany([
     department: "HR",
     salary: 25000,
     age: 24
+  },
+  {
+    name: "Rahul",
+    department: "Sales",
+    salary: 42000,
+    age: 26
   }
 ]);
 
